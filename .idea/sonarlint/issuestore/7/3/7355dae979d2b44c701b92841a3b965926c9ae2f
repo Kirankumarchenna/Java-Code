@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şÌ¿¥ûÿÿÿÿ
+]
+java:S2095	"HUse try-with-resources or close this "Connection" in a "finally" clause.(ğº
+M
+java:S1854	"8Remove this useless assignment to local variable "conn".(ğº
+C
+java:S4925"-Remove this "Class.forName()", it is useless.(ùíÄé
+>
+java:S1481	")Remove this unused "conn" local variable.(ğº

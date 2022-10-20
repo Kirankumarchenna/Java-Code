@@ -1,0 +1,6 @@
+These are the Entries of the latest Customers
+* Sujatha
+* Kiran
+* Sagar
+* Rajini
+* Raju

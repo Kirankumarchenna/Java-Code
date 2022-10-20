@@ -1,0 +1,1 @@
+File operations are very important while studying a programming language. Some languages have a better reader API for reading files and filtering the data than others. But the concept of parsing the file remains the same and is helpful while Designing a Microservice that reads data from a file and inserts it into Database.

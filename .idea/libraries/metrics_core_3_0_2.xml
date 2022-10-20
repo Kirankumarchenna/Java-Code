@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="metrics-core-3.0.2">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/guava-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
