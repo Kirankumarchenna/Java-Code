@@ -1,6 +1,6 @@
 package com.netcracker.javademos.day1;
 
-class Chinthalli implements Runnable{
+class Stranger implements Runnable{
     private String message;
     public void setMessage(String message){
         this.message = message;
@@ -20,12 +20,10 @@ class Chinthalli implements Runnable{
         System.out.println();
     }
 }
-public class MsgforKannamma {
+public class MsgForStranger {
     public static void main(String[] args) throws InterruptedException {
-        Chinthalli bannerRunnable = new Chinthalli();
-        bannerRunnable.setMessage("\"Hi Sweetheart a surprise message is waiting for you\" \n" +
-                "\"A beautiful Wish to my strongest Lady a happy Womens day ;)\"" +
-                " \n \n                      From your Shran :^");
+        Stranger bannerRunnable = new Stranger();
+        bannerRunnable.setMessage("This is a secret message for you!!");
         Thread t1 = new Thread(bannerRunnable);
         t1.start();
         //t2.start();
